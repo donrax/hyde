@@ -11,7 +11,7 @@ title:            Domen R.
 tagline:          'Personal website'
 description:      'Computer Vision & Deep Learning Engineer.'
 #url:              http://hyde.getpoole.com
-baseurl:          https://donrax.github.io
+baseurl:          /
 
 author:
   name:           'Domen R.'
