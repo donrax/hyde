@@ -16,8 +16,6 @@ author:
 paginate:         5
 
 # Custom vars
-#version:          2.1.0
-
 linkedin:
   url:           https://www.linkedin.com/in/domenracki
 github:
