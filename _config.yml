@@ -7,9 +7,9 @@ highlighter:      pygments
 #relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'Description todo.'
+title:            Domen R.
+tagline:          'Personal website'
+description:      'Computer Vision & Deep Learning Engineer.'
 #url:              http://hyde.getpoole.com
 baseurl:          /
 
