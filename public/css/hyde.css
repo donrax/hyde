@@ -231,15 +231,6 @@ a.sidebar-nav-item:focus {
   color: #6a9fb5;
 }
 
-/* Blue custom */
-.theme-base-0dc .sidebar {
-  background-color: #537eae;
-}
-.theme-base-0dc .content a,
-.theme-base-0dc .related-posts li a:hover {
-  color: #537eae;
-}
-
 /* Magenta */
 .theme-base-0e .sidebar {
   background-color: #aa759f;
@@ -256,4 +247,15 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+
+
+/* Blue custom */
+.theme-base-0dc .sidebar {
+  background-color: #42658c;
+}
+.theme-base-0dc .content a,
+.theme-base-0dc .related-posts li a:hover {
+  color: #42658c;
 }
