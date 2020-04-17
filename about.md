@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm a Computer Vision & Deep Learning Engineer with a strong background in Research and Development. 
+Hi. I'm a Computer Vision & Deep Learning Engineer with a strong background in Research and Development. 
 Here's a few poetic keywords:
 
 Vision \| Computer Vision and Machine Vision<br/>
