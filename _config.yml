@@ -6,8 +6,8 @@ highlighter:      rouge
 title:            Domen R.
 tagline:          'Personal website'
 description:      'Computer Vision & Deep Learning Engineer.'
-url:              /
-baseurl:          /
+#url:              /
+baseurl:          /index.html
 
 author:
   name:           'Domen R.'
