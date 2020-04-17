@@ -231,11 +231,12 @@ a.sidebar-nav-item:focus {
   color: #6a9fb5;
 }
 
-.theme-base-0d2 .sidebar {
+/* Blue custom */
+.theme-base-0dc .sidebar {
   background-color: #7f9fc3;
 }
-.theme-base-0d .content a,
-.theme-base-0d .related-posts li a:hover {
+.theme-base-0dc .content a,
+.theme-base-0dc .related-posts li a:hover {
   color: #7f9fc3;
 }
 
