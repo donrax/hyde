@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            DR
-tagline:          'Personal website'
+title:            Domen R.
+tagline:          'blog'
 description:      'Computer Vision & Deep Learning Engineer.'
 #url:              /
 baseurl:          /
