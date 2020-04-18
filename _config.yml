@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Domen R.
+title:            DR
 tagline:          'Personal website'
 description:      'Computer Vision & Deep Learning Engineer.'
 #url:              /
