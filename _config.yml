@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Domen R.
+title:            Domen Racki
 tagline:          'blog'
 description:      'Computer Vision & Deep Learning Engineer.'
 #url:              /
