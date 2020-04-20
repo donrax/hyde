@@ -11,5 +11,5 @@ Learning \| Deep Learning and Machine Learning<br/>
 Data \| Data Science and Data Visualization<br/>
 Tools \| Python, PyTorch, C++<br/>
 
-> "Common sense can replace almost any degree of formal education, but no education can replace common sense."<br/>
+> Common sense can replace almost any degree of formal education, but no education can replace common sense.<br/>
 -- Arthur Schopenhauer 
