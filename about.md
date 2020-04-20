@@ -12,3 +12,6 @@ Data \| Data Science and Data Visualization<br/>
 Tools \| Python, PyTorch, C++<br/>
 
 Thanks for reading!
+
+> "Common sense can replace almost any degree of formal education, but no education can replace common sense."<br/>
+-- Arthur Schopenhauer 
