@@ -259,7 +259,8 @@ a.sidebar-nav-item:focus {
 /* Blue custom */
 .theme-base-0dc .sidebar {
   /*background-color: #4d709a;*/
-  background-color: #32527b;
+  /*background-color: #32527b;*/
+  background-color: #1f3651;
 }
 .theme-base-0dc .content a,
 .theme-base-0dc .related-posts li a:hover {
