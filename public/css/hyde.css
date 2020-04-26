@@ -264,5 +264,6 @@ a.sidebar-nav-item:focus {
 .theme-base-0dc .content a,
 .theme-base-0dc .related-posts li a:hover {
   /*color: #4d709a;*/
-  color: #32527b;
+  /*color: #32527b;*/
+  color: #1f3651;
 }
