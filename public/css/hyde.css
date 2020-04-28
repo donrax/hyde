@@ -268,3 +268,7 @@ a.sidebar-nav-item:focus {
   /*color: #758EA8;*/
   color: #687e95;
 }
+
+.profilepic {
+border-radius: 0px;
+}
