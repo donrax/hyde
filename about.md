@@ -9,7 +9,7 @@ I'm a Computer Vision & Deep Learning Engineer with a strong background in Resea
 
 ------
 
-<img style="float: left; margin: 0px 16px 0px 0px;" class="profilepic" src="public/stock.png" width=185/> | I'm a Computer Vision & Deep Learning Engineer with a strong background in Research and Development. 
+<img width=185 style="float: left; margin: 0px 16px 0px 0px;" class="profilepic" src="public/stock.png"/> | I'm a Computer Vision & Deep Learning Engineer with a strong background in Research and Development. 
 
 Here are a few poetic keywords:
 
