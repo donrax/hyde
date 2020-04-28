@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-## `left` alignment
-
 <img align="left" src="public/stock.png">
 
 I'm a Computer Vision & Deep Learning Engineer with a strong background in Research and Development. 
