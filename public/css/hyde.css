@@ -270,5 +270,5 @@ a.sidebar-nav-item:focus {
 }
 
 .profilepic {
-border-radius: 0px;
+border-radius: 0px; /*50%;*/
 }
