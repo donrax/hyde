@@ -14,6 +14,7 @@ Tools \| Python, PyTorch, C++<br/>
 
 And a poetic quote about knowledge:
 > Common sense can replace almost any degree of formal education, but no education can replace common sense.<br/>
--- Arthur Schopenhauer 
+>
+> -- Arthur Schopenhauer 
 
 <!--- Natürlicher Verstand kann fast jeden Grad von Bildung ersetzen, aber keine Bildung den natürlichen Verstand.<br/> -->
