@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img  align="left" width="150" height="150" src="public/stock.png">
+<img  align="left" width="160" height="160" src="public/stock.png">
 
 I'm a Computer Vision & Deep Learning Engineer with a strong background in Research and Development. 
 Here's a few poetic keywords:
