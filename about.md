@@ -7,7 +7,7 @@ title: About
 <br/><br/><br/><br/>
 I'm a Computer Vision & Deep Learning Engineer with a strong background in Research and Development. 
 
-Here's a few poetic keywords:
+Here are a few poetic keywords:
 
 Vision \| Computer Vision and Machine Vision<br/>
 Learning \| Deep Learning and Machine Learning<br/>
