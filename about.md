@@ -5,7 +5,7 @@ title: About
 
 ## `left` alignment
 
-<img align="left" class="profilepic" src="public/stock.png">
+<img class="profilepic" src="public/stock.png">
 
 I'm a Computer Vision & Deep Learning Engineer with a strong background in Research and Development. 
 Here's a few poetic keywords:
