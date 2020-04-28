@@ -6,6 +6,7 @@ title: About
 <img style="float: left; margin: 0px 16px 0px 0px;" class="profilepic" src="public/stock.png" />
 I'm a Computer Vision & Deep Learning Engineer with a strong background in Research and Development. 
 <div style="page-break-after: always;"></div>
+
 ------
 
 Here are a few poetic keywords:
