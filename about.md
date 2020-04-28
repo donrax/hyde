@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+<img class="profilepic" style="float: right;" src='{{"/public/stock.png" | absolute_url}}'>
+
 I'm a Computer Vision & Deep Learning Engineer with a strong background in Research and Development. 
 Here's a few poetic keywords:
 
