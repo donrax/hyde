@@ -11,6 +11,12 @@ I'm a Computer Vision & Deep Learning Engineer with a strong background in Resea
 
 <img width=185 style="float: left; margin: 0px 16px 0px 0px;" class="profilepic" src="public/stock.png"/> | I'm a Computer Vision & Deep Learning Engineer with a strong background in Research and Development. 
 
+<div style="width:290px">
+  
+<div style="width:185px">
+  <img style="float: left; margin: 0px 16px 0px 0px;" class="profilepic" src="public/stock.png"/>
+  </div>| I'm a Computer Vision & Deep Learning Engineer with a strong background in Research and Development. 
+
 Here are a few poetic keywords:
 
 Vision \| Computer Vision and Machine Vision<br/>
