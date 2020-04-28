@@ -3,8 +3,7 @@ layout: page
 title: About
 ---
 
-<img style="float: left; margin: 0px 12px 12px 0px;" class="profilepic" src="public/stock.png">
-
+<img style="float: left; margin: 0px 16px 16px 0px;" class="profilepic" src="public/stock.png">
 I'm a Computer Vision & Deep Learning Engineer with a strong background in Research and Development. 
 Here's a few poetic keywords:
 
