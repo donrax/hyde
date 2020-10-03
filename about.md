@@ -4,15 +4,15 @@ title: About
 ---
 
 <!--- <img style="float: left; margin: 0px 16px 0px 0px;" class="profilepic" src="public/stock.png" /> -->
-I'm a Computer Vision & Deep Learning Engineer with a strong background in Research and Development. 
+I'm a Deep Learning & Computer Vision Engineer with a strong background in Research and Development. 
 <!--- <br/><br/><br/><br/><br/><br/> -->
 
 ------
 
 Here are a few poetic keywords:
 
-Vision \| Computer Vision and Machine Vision<br/>
 Learning \| Deep Learning and Machine Learning<br/>
+Vision \| Computer Vision and Machine Vision<br/>
 Data \| Data Science and Data Visualization<br/>
 Tools \| Python, PyTorch, C++<br/>
 
