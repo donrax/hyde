@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Domen R.
 tagline:          'blog'
-description:      'Computer Vision & Deep Learning Engineer.'
+description:      'Deep Learning & Computer Vision Engineer.'
 #url:              /
 baseurl:          /
 
