@@ -37,7 +37,8 @@ html {
 @media (min-width: 48em) {
   html {
     /*font-size: 16px;*/
-    font-size: 14px;
+    /*font-size: 14px;*/
+    font-size: 12px;
   }
 }
 @media (min-width: 58em) {
@@ -87,8 +88,7 @@ html {
   /* font-size: 3.25rem; */
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   /* font-size: 1.875rem; */
-  /* font-size: 1.75rem; */
-  font-size: 1rem;
+  font-size: 1.75rem;
 }
 
 /* Sidebar nav */
