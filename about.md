@@ -7,7 +7,7 @@ title: About
 I'm a Deep Learning & Computer Vision Engineer with a strong background in Research and Development. 
 <!--- <br/><br/><br/><br/><br/><br/> -->
 
-I'm pursuing a Ph.D. in the field of Deep Learning while working as a research scientist at a company focused on specialized quality control solutions in the pharma industry. My main focus is the development of robust and scalable Deep Learning based Computer Vision models for real-time applications. My work includes full-stack development and the vertical-and-horizontal integration of the Deep Learning process into existing company processes and solutions.
+I'm pursuing a Ph.D. in the field of Deep Learning while working as a research scientist at a company focused on specialized visual quality control solutions in the pharma industry. My main focus is the development of robust and scalable Deep Learning based Computer Vision models for real-time applications. My work includes full-stack development and the vertical-and-horizontal integration of the Deep Learning process into existing company processes and solutions.
 
 ------
 
