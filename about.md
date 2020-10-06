@@ -24,3 +24,10 @@ And a poetic quote about knowledge:
 
 ------
 
+### Experience
+
+------
+
+### Education
+
+------
