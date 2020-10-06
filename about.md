@@ -21,3 +21,6 @@ And a poetic quote about knowledge:
 > --- <cite>Arthur Schopenhauer</cite>
 
 <!--- Natürlicher Verstand kann fast jeden Grad von Bildung ersetzen, aber keine Bildung den natürlichen Verstand.<br/> -->
+
+------
+
