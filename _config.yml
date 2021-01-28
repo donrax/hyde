@@ -18,5 +18,7 @@ paginate:         5
 # Custom vars
 linkedin:
   url:           https://www.linkedin.com/in/domenracki
+gscholar:
+  url:           https://scholar.google.com/citations?user=SeDLjRMAAAAJ&hl=sl&oi=ao
 github:
   url:           https://github.com/donrax
