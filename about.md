@@ -11,14 +11,14 @@ I'm pursuing a Ph.D. in the field of Deep Learning while working as an applied r
 
 ------
 
-Here are a few poetic keywords:
+Here are a few poetic keywords
 
 Learning \| Deep Learning and Machine Learning<br/>
 Vision \| Computer Vision and Machine Vision<br/>
 Data \| Data Science and Data Visualization<br/>
 Tools \| Python, PyTorch, C++<br/>
 
-And a poetic quote about knowledge:
+And a poetic quote about knowledge
 > Common sense can replace almost any degree of formal education, but no education can replace common sense.<br/>
 > --- <cite>Arthur Schopenhauer</cite>
 
