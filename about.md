@@ -2,6 +2,9 @@
 layout: page
 title: About
 ---
+# Philosophy
+
+# Affiliation
 
 <!--- <img style="float: left; margin: 0px 16px 0px 0px;" class="profilepic" src="public/stock.png" /> -->
 I'm a Deep Learning & Computer Vision Engineer with a strong background in Research and Development working on Applied Research
