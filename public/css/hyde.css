@@ -37,7 +37,7 @@
 html {
   /*font-family: "PT Sans", Helvetica, Arial, sans-serif; */
   /* font-family: Lora, Arial, sans-serif; */
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "Open Sans";
 }
 @media (min-width: 48em) {
   html {
