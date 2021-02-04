@@ -25,6 +25,7 @@
  */
 
 @import url('https://fonts.googleapis.com/css?family=Lora');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 
 /*
@@ -86,9 +87,10 @@ html {
   /*color: #fff;*/
   color: #f6f8fa;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  /* font-family: "Abril Fatface", serif; */
   /* font-size: 3.25rem; */
   /* font-family: "PT Sans", Helvetica, Arial, sans-serif; */
+  font-family: "Open Sans", sans-serif;
   /* font-size: 1.875rem; */
   font-size: 1.75rem;
 }
