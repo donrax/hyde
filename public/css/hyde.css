@@ -33,7 +33,7 @@
 
 html {
   /*font-family: "PT Sans", Helvetica, Arial, sans-serif;*/
-  font-family: "Lora", Helvetica, Arial, sans-serif;
+  font-family: Lora, sans-serif;
 }
 @media (min-width: 48em) {
   html {
