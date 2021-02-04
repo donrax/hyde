@@ -1,1 +1,1 @@
-A simple attempt at a personal website.
+A simple attempt at a personal website
