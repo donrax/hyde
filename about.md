@@ -21,6 +21,7 @@ I'm pursuing a Ph.D. in the field of Deep Learning while working as an applied r
 
 ------
 
+#### Miscellaneous Thoughts
 Here are a few poetic keywords
 
 Learning -- Deep Learning and Machine Learning<br/>
