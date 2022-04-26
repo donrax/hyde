@@ -7,8 +7,8 @@ title: About
 I'm a Deep Learning & Computer Vision Engineer with a strong background in Research and Development working on Applied Research
 <!--- <br/><br/><br/><br/><br/><br/> -->
 
-#### Philosophy
-Walking the line between academic reseach and industry, with the goal of applying distilled perspectives in a usable manner to pratcial problems.
+<!---  #### Philosophy -->
+<!---  Walking the line between academic reseach and industry, with the goal of applying distilled perspectives in a usable manner to pratcial problems. -->
 
 <!---  Novel ideas originating from the field of 'Artificial Learning' and ideas originating from creativity. -->
 
