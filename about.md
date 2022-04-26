@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: AboutMe
 ---
 
 <!--- <img style="float: left; margin: 0px 16px 0px 0px;" class="profilepic" src="public/stock.png" /> -->
