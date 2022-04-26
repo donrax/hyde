@@ -3,8 +3,9 @@ layout: page
 title: AboutMe
 ---
 
+<br/>
 <!--- <img style="float: left; margin: 0px 16px 0px 0px;" class="profilepic" src="public/stock.png" /> -->
-<br/>I'm a Deep Learning & Computer Vision Engineer with a strong background in Research and Development working on Applied Research
+I'm a Deep Learning & Computer Vision Engineer with a strong background in Research and Development working on Applied Research
 <!--- <br/><br/><br/><br/><br/><br/> -->
 
 <!---  #### Philosophy -->
@@ -12,8 +13,9 @@ title: AboutMe
 
 <!---  Novel ideas originating from the field of 'Artificial Learning' and ideas originating from creativity. -->
 
+<br/>
 #### Affiliation
-<br/>I'm pursuing a Ph.D. in the field of Deep Learning while working as an applied research scientist for a company focused on specialized visual quality control solutions for the Pharma Industry. My focus is the development of robust and scalable Deep Learning based Computer Vision models for real-time application. This includes full-stack development and the vertical-and-horizontal integration of the Deep Learning process into existing company processes and solutions.
+I'm pursuing a Ph.D. in the field of Deep Learning while working as an applied research scientist for a company focused on specialized visual quality control solutions for the Pharma Industry. My focus is the development of robust and scalable Deep Learning based Computer Vision models for real-time application. This includes full-stack development and the vertical-and-horizontal integration of the Deep Learning process into existing company processes and solutions.
 
 ------
 
