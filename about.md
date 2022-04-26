@@ -13,7 +13,7 @@ I'm a Deep Learning & Computer Vision Engineer with a strong background in Resea
 
 <!---  Novel ideas originating from the field of 'Artificial Learning' and ideas originating from creativity. -->
 
-
+<br/>
 #### Affiliation
 I'm pursuing a Ph.D. in the field of Deep Learning while working as an applied research scientist for a company focused on specialized visual quality control solutions for the Pharma Industry. My focus is the development of robust and scalable Deep Learning based Computer Vision models for real-time application. This includes full-stack development and the vertical-and-horizontal integration of the Deep Learning process into existing company processes and solutions.
 
