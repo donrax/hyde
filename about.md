@@ -17,7 +17,7 @@ I'm a Deep Learning & Computer Vision Engineer with a strong background in Resea
 My current focus is the development and adaptation of robust and scalable Deep Learning based Computer Vision models for real-time production-grade applications geared toward segmentation and detection problems.
 
 #### Affiliation
-My Bachelor's thesis was in the field of Machine Learning on feature selection in imbalanced real-world datasets. My Master's thesis was in the field of Computer Vision on improving object localization in real-world images. I did my Ph.D. in the field of Deep Learning while working as an applied research scientist for a company focused on specialized visual quality-control solutions for the Pharma Industry. My focus is the development of robust and scalable Deep Learning based Computer Vision models for real-time production-grade applications. This includes MLOps development and the vertical-and-horizontal integration of the Deep Learning process into existing company processes and solutions.
+My Bachelor's thesis was in the field of Machine Learning on feature selection in imbalanced real-world datasets. My Master's thesis was in the field of Computer Vision on improving object localization in real-world images. I completed my Ph.D. dissertation in the field of Deep Learning while working as an applied research scientist for a company focused on specialized visual quality-control solutions for the Pharma Industry. My focus is the development of robust and scalable Deep Learning based Computer Vision models for real-time production-grade applications. This includes MLOps development and the vertical-and-horizontal integration of the Deep Learning process into existing company processes and solutions.
 
 ------
 
