@@ -27,7 +27,7 @@ Here are a few poetic keywords and a poetic quote about knowledge.
 Learning -- Deep Learning and Machine Learning<br/>
 Vision -- Computer Vision and Machine Vision<br/>
 Data -- Data Science and Data Visualization<br/>
-Tools -- Python, PyTorch, C++<br/>
+Tools -- Python, PyTorch, C++, TensorRT<br/>
 
 > Common sense can replace almost any degree of formal education, but no education can replace common sense.<br/>
 > --- <cite>Arthur Schopenhauer</cite>
