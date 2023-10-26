@@ -28,7 +28,7 @@ A few keywords:
 Deep Learning and Machine Learning<br/>
 Computer Vision and Machine Vision<br/>
 Data Science and Data Visualization<br/>
-Python, PyTorch, C++, TensorRT<br/>
+Python, PyTorch, TensorRT<br/>
 
 A poetic quote about knowledge:
 > Common sense can replace almost any degree of formal education, but no education can replace common sense.<br/>
