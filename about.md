@@ -23,9 +23,7 @@ My Bachelor's thesis was in the field of Machine Learning on feature selection i
 ------
 
 #### Miscellaneous Thoughts
-A few keywords:
-
-Deep Learning and Machine Learning, Computer Vision and Machine Vision, Data Science and Data Visualization, Applied Research and Artificial Intelligence, Python, PyTorch, TensorRT
+A few keywords: Deep Learning and Machine Learning, Computer Vision and Machine Vision, Data Science and Data Visualization, Applied Research and Artificial Intelligence, Python, PyTorch, TensorRT
 
 A poetic quote about knowledge:
 > Common sense can replace almost any degree of formal education, but no education can replace common sense.<br/>
