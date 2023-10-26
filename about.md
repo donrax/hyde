@@ -23,13 +23,14 @@ My Bachelor's thesis was in the field of Machine Learning on feature selection i
 ------
 
 #### Miscellaneous Thoughts
-Here are a few keywords and a poetic quote about knowledge:
+A few keywords:
 
 Deep Learning and Machine Learning<br/>
 Computer Vision and Machine Vision<br/>
 Data Science and Data Visualization<br/>
 Python, PyTorch, C++, TensorRT<br/>
 
+A poetic quote about knowledge:
 > Common sense can replace almost any degree of formal education, but no education can replace common sense.<br/>
 > --- <cite>Arthur Schopenhauer</cite>
 
