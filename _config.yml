@@ -3,14 +3,14 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Domen Rački, PhD
+title:            Domen Rački
 tagline:          'card'
 description:      'Applied AI/ML Engineer'
 #url:              /
 baseurl:          /
 
 author:
-  name:           'Domen Rački, PhD'
+  name:           'Domen Rački'
   #url:            https://twitter.com/mdo
 
 paginate:         5
