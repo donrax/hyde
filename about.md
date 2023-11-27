@@ -5,7 +5,7 @@ title: AboutMe
 
 
 <!--- <img style="float: left; margin: 0px 16px 0px 0px;" class="profilepic" src="public/stock.png" /> -->
-I'm an Applied AI/ML Engineer with a strong background in Research and Development, aiming to facilitate the transfer of Research Findings into Practical Applications. 
+I'm an Applied AI/ML Scientist with a strong background in Research and Development, aiming to facilitate the transfer of Research Findings into Practical Applications
 <!--- <br/><br/><br/><br/><br/><br/> -->
 
 <!---  #### Philosophy -->
@@ -15,7 +15,7 @@ I'm an Applied AI/ML Engineer with a strong background in Research and Developme
 
 #### Interests
 <!--- My current focus is the development and adaptation of robust and scalable Deep Learning-based Computer Vision models for real-time production-grade applications geared toward segmentation and detection problems. -->
-My current focus is the development of Deep Learning-based solutions for real-world and real-time Computer Vision tasks geared toward industrial surface anomaly segmentation and detection.
+My current focus is the development of Deep Learning-based solutions for real-world and real-time Computer Vision tasks geared toward industrial surface anomaly segmentation and detection
 
 <!--- #### Affiliation -->
 #### Biography
